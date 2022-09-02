@@ -1,4 +1,4 @@
-# phonenumber-scraper
+# Phonenumber scraper
 This will tell you which carrier does your SIM belongs. Make sure your internet connection before running this !!
 
 # Installation guide
