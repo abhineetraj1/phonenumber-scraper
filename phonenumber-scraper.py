@@ -4,11 +4,11 @@ from phonenumbers import carrier as b
 from tkinter import*
 from tkinter import messagebox as msg
 import phonenumbers as pn
-from phonenumber import*
+from phonenumbers import*
 from phonenumbers.carrier import name_for_number
 top= Tk()
 top.title("Phone number scraper")
-top.geometry("500x500")
+top.geometry("500x200")
 k = Label(text="Enter the phone number with country code",font="40")
 e = Entry(bd=5, font="36")
 def main():
