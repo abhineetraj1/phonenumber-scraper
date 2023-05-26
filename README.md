@@ -16,7 +16,7 @@ pip install phonenumbers
 python phonenumber-scraper.py
 ```
 # Demo (For Windows 8 | 10 | 11)
-* Download file from [here](http://github.com/abhineetraj1/phonenumber-scraper/raw/main/app.exe)
+* Download file from [here](http://github.com/abhineetraj1/phonenumber-scraper/raw/main/phonenumber-scraper.exe)
 * Run app.exe file
 
 # Programming language used
